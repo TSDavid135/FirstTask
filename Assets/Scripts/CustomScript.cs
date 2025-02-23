@@ -11,7 +11,7 @@ public class CustomScript : MonoBehaviour
 
     private float Zmove;
     private float Xmove;
-    private bool IsGround;
+    public bool IsGround;
     
     void Start()
     {
